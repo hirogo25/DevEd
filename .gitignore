@@ -1,0 +1,7 @@
+*.jpg
+*.png
+*.bmp
+*.gif
+*.exe
+/.vscode/*
+/JavaScript/express/
